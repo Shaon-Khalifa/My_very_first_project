@@ -1,0 +1,10 @@
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\bin\Debug\calculator.exe.config
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\bin\Debug\calculator.exe
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\bin\Debug\calculator.pdb
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\obj\Debug\calculator.exe
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\obj\Debug\calculator.pdb
+E:\C#\C# HW\ESAD_CS_CALCULATOR\calculator\obj\Debug\calculator.calculator.resources
